@@ -10,7 +10,7 @@ let MyFirstComponent = () => {
 
     return (
     <div>
-        {myNumber}
+        <button>{myNumber}</button>
         <div>
             <App />
         </div>
